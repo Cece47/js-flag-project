@@ -12,10 +12,10 @@ ctx.translate(0.5, 0.5);
 //
 
 ctx.fillStyle = 'Green';
-ctx.fillRect(0, 0, 100, 200);
+ctx.fillRect(0, 0, 200, 400);
 
 ctx.fillStyle = 'white';
-ctx.fillRect(100, 0, 100, 200);
+ctx.fillRect(200, 0, 200, 400);
 
 ctx.fillStyle= '#F29405';
-ctx.fillRect(200, 0, 100, 200);
+ctx.fillRect(400, 0, 200, 400);
